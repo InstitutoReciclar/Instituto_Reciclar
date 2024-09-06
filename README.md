@@ -14,4 +14,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-![DaniLep GitHub stats](https://github-readme-stats.vercel.app/api?username=InstitutoReciclar&theme=dark&show_icons=true)
+![InstitutoReciclar GitHub stats](https://github-readme-stats.vercel.app/api?username=InstitutoReciclar&theme=dark&show_icons=true)
